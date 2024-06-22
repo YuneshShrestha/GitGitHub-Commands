@@ -8,3 +8,8 @@ git checkout checkout_id
 git clone github_url
 git merge branch_name
 
+
+![Alt text](github_flow.png)
+![Alt text](merge_confict.png)
+
+
