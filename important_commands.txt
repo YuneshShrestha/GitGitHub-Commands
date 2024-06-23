@@ -3,6 +3,7 @@ git config --global user.email "yuneshshrestha24@gmail.com"
 git add .
 git commit -m "New Url Added"
 git log  // To exit git log use "q"
+git checkout -- . 
 git diff
 git checkout checkout_id
 
