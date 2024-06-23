@@ -2,14 +2,13 @@ git config --global user.name "Yunesh Shrestha"
 git config --global user.email "yuneshshrestha24@gmail.com"
 git add .
 git log
+git diff
 git checkout checkout_id
 
 
 git clone github_url
+git branch hello_world
+git switch hello_world
 git merge branch_name
-
-
-![Alt text](github_flow.png)
-![Alt text](merge_confict.png)
 
 
